@@ -1,0 +1,30 @@
+.header{
+    /* background-color: rgb(240, 233, 233); */
+    height: 80%;
+}
+.Carousel {
+    height: 100%;
+    width: 80%;
+    margin-left: 8%;
+}
+
+.description{
+    margin: 5%;
+    font-family: monospace;
+    font-weight: lighter;
+}
+
+.description, h1 {
+    font-size: 1rem;
+}
+
+.desc_p{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: cursive;
+}
+
+.desc_h{
+    font-size: 25px;
+    font-weight: lighter;
+}
